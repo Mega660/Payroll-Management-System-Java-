@@ -83,5 +83,3 @@ This project was built to:
 
 Amenyo Richard
 Computer Science Student | UI/UX Designer | Front-End Developer
-
-⭐ If you found this project helpful, consider giving it a star!
